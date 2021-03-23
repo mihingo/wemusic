@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wemusic/static/css/main.594b2614.chunk.css",
+    "main.js": "/wemusic/static/js/main.0393ebdb.chunk.js",
+    "main.js.map": "/wemusic/static/js/main.0393ebdb.chunk.js.map",
+    "runtime-main.js": "/wemusic/static/js/runtime-main.288b515b.js",
+    "runtime-main.js.map": "/wemusic/static/js/runtime-main.288b515b.js.map",
+    "static/js/2.a4925e1f.chunk.js": "/wemusic/static/js/2.a4925e1f.chunk.js",
+    "static/js/2.a4925e1f.chunk.js.map": "/wemusic/static/js/2.a4925e1f.chunk.js.map",
+    "static/js/3.ed51a3ec.chunk.js": "/wemusic/static/js/3.ed51a3ec.chunk.js",
+    "static/js/3.ed51a3ec.chunk.js.map": "/wemusic/static/js/3.ed51a3ec.chunk.js.map",
+    "index.html": "/wemusic/index.html",
+    "static/css/main.594b2614.chunk.css.map": "/wemusic/static/css/main.594b2614.chunk.css.map",
+    "static/js/2.a4925e1f.chunk.js.LICENSE.txt": "/wemusic/static/js/2.a4925e1f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.288b515b.js",
+    "static/js/2.a4925e1f.chunk.js",
+    "static/css/main.594b2614.chunk.css",
+    "static/js/main.0393ebdb.chunk.js"
+  ]
+}
