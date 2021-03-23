@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wemusic/static/css/main.594b2614.chunk.css",
-    "main.js": "/wemusic/static/js/main.0393ebdb.chunk.js",
-    "main.js.map": "/wemusic/static/js/main.0393ebdb.chunk.js.map",
+    "main.js": "/wemusic/static/js/main.59bb5631.chunk.js",
+    "main.js.map": "/wemusic/static/js/main.59bb5631.chunk.js.map",
     "runtime-main.js": "/wemusic/static/js/runtime-main.288b515b.js",
     "runtime-main.js.map": "/wemusic/static/js/runtime-main.288b515b.js.map",
     "static/js/2.a4925e1f.chunk.js": "/wemusic/static/js/2.a4925e1f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.288b515b.js",
     "static/js/2.a4925e1f.chunk.js",
     "static/css/main.594b2614.chunk.css",
-    "static/js/main.0393ebdb.chunk.js"
+    "static/js/main.59bb5631.chunk.js"
   ]
 }
