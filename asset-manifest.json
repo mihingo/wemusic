@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/wemusic/static/css/main.594b2614.chunk.css",
-    "main.js": "/wemusic/static/js/main.59bb5631.chunk.js",
-    "main.js.map": "/wemusic/static/js/main.59bb5631.chunk.js.map",
-    "runtime-main.js": "/wemusic/static/js/runtime-main.288b515b.js",
-    "runtime-main.js.map": "/wemusic/static/js/runtime-main.288b515b.js.map",
-    "static/js/2.a4925e1f.chunk.js": "/wemusic/static/js/2.a4925e1f.chunk.js",
-    "static/js/2.a4925e1f.chunk.js.map": "/wemusic/static/js/2.a4925e1f.chunk.js.map",
-    "static/js/3.ed51a3ec.chunk.js": "/wemusic/static/js/3.ed51a3ec.chunk.js",
-    "static/js/3.ed51a3ec.chunk.js.map": "/wemusic/static/js/3.ed51a3ec.chunk.js.map",
+    "main.css": "/wemusic/static/css/main.c269a7b5.chunk.css",
+    "main.js": "/wemusic/static/js/main.68f2a2e8.chunk.js",
+    "main.js.map": "/wemusic/static/js/main.68f2a2e8.chunk.js.map",
+    "runtime-main.js": "/wemusic/static/js/runtime-main.b9786d13.js",
+    "runtime-main.js.map": "/wemusic/static/js/runtime-main.b9786d13.js.map",
+    "static/js/2.8790b687.chunk.js": "/wemusic/static/js/2.8790b687.chunk.js",
+    "static/js/2.8790b687.chunk.js.map": "/wemusic/static/js/2.8790b687.chunk.js.map",
+    "static/js/3.35c8861d.chunk.js": "/wemusic/static/js/3.35c8861d.chunk.js",
+    "static/js/3.35c8861d.chunk.js.map": "/wemusic/static/js/3.35c8861d.chunk.js.map",
     "index.html": "/wemusic/index.html",
-    "static/css/main.594b2614.chunk.css.map": "/wemusic/static/css/main.594b2614.chunk.css.map",
-    "static/js/2.a4925e1f.chunk.js.LICENSE.txt": "/wemusic/static/js/2.a4925e1f.chunk.js.LICENSE.txt"
+    "static/css/main.c269a7b5.chunk.css.map": "/wemusic/static/css/main.c269a7b5.chunk.css.map",
+    "static/js/2.8790b687.chunk.js.LICENSE.txt": "/wemusic/static/js/2.8790b687.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.288b515b.js",
-    "static/js/2.a4925e1f.chunk.js",
-    "static/css/main.594b2614.chunk.css",
-    "static/js/main.59bb5631.chunk.js"
+    "static/js/runtime-main.b9786d13.js",
+    "static/js/2.8790b687.chunk.js",
+    "static/css/main.c269a7b5.chunk.css",
+    "static/js/main.68f2a2e8.chunk.js"
   ]
 }
